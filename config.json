@@ -12,28 +12,23 @@
     },
 "hnzy": {
       "api": "https://hnzyapi.com/api.php/provide/vod",
-      "name": "火鸟资源",
-      "is_adult": false
+      "name": "火鸟资源"
     },
     "lzzy": {
       "api": "https://api.liangzizy.com/inc/apijson_vod.php",
-      "name": "量子资源",
-      "is_adult": false
+      "name": "量子资源"
     },
     "ffzy": {
       "api": "https://ffzyapi.com/api.php/provide/vod",
-      "name": "非凡资源",
-      "is_adult": false
+      "name": "非凡资源"
     },
     "ykzy": {
       "api": "https://api.yongjiuzy.cc/provide/vod",
-      "name": "永久资源",
-      "is_adult": false
+      "name": "永久资源"
     },
     "bdzy": {
       "api": "https://api.1080zyku.com/inc/apijson_vod.php",
-      "name": "百度资源",
-      "is_adult": false
+      "name": "百度资源"
     }
   }
 }
